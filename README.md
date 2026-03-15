@@ -1,15 +1,39 @@
-Escola de Música – Projeto POO
+# 🎶 Escola de Música – Projeto POO em Java
 
-Este projeto foi desenvolvido como atividade de Programação Orientada a Objetos (POO) em Java. O objetivo é modelar instrumentos musicais como classes e objetos, praticando herança, polimorfismo e encapsulamento.
+Este projeto foi desenvolvido como atividade de **Programação Orientada a Objetos (POO)** na faculdade.  
+O objetivo é **modelar instrumentos musicais como classes e objetos**, praticando conceitos como **herança, polimorfismo e encapsulamento**.
 
-🎵 Funcionalidades principais:
+---
 
-Classe base InstrumentoMusical com atributos e métodos comuns;
+##  Funcionalidades
 
-Classes derivadas como Bateria, implementando comportamentos específicos (tocar, afinar, mostrasInformacoes);
+- **Classe base:** `InstrumentoMusical`  
+  Contém atributos e métodos comuns a todos os instrumentos.
 
-Instanciação de objetos que representam instrumentos reais, demonstrando interações e ações específicas;
+- **Classes derivadas:** `Bateria`, `Guitarra`, etc.  
+  Cada classe implementa comportamentos específicos:
+  - `tocar()` 🎵 – simula o som do instrumento  
+  - `afinar()` 🔧 – ajusta o instrumento  
+  - `mostrasInformacoes()` ℹ️ – exibe detalhes do instrumento  
 
-Prática de reuso de código e estrutura modular orientada a objetos.
+- **Objetos concretos:** cada instrumento é instanciado como um objeto real, permitindo **interações e execução de ações específicas**.
 
-Este projeto ajuda a entender como conectar classes e objetos, aplicando conceitos teóricos de POO em um contexto prático e divertido.
+- **Prática de POO:** demonstra **reuso de código, modularidade e orientação a objetos** aplicados a entidades do mundo real.
+
+---
+
+## 🛠 Tecnologias e Conceitos
+
+- **Linguagem:** Java  
+- **Conceitos aplicados:**  
+  - Herança  
+  - Polimorfismo  
+  - Encapsulamento  
+  - Métodos e Atributos  
+  - Instanciação de Objetos  
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Demonstrar como **conectar classes e objetos** em um sistema simples, aplicando teoria de POO em um contexto **prático e didático**, simulando uma **escola de música com instrumentos reais**.

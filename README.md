@@ -1,7 +1,15 @@
-# EscolaDeMusica_A1_n2
-#Descrição do Projeto – Escola de Música (PO)
-Este projeto foi desenvolvido como atividade acadêmica de Programação Orientada a Objetos (PO) em Java. O objetivo principal foi praticar a modelagem de classes, herança, métodos e atributos, além de conectar objetos entre si e demonstrar comportamentos específicos de cada classe.
+Escola de Música – Projeto POO
 
-No projeto, criamos uma hierarquia de instrumentos musicais, onde a classe base InstrumentoMusical define atributos e métodos comuns, e classes derivadas, como Bateria, implementam comportamentos específicos, como tocar, afinar e mostrasInformacoes. Cada objeto instanciado representa um instrumento concreto, permitindo interações entre objetos e execução de ações próprias de cada instrumento, reforçando conceitos de encapsulamento, polimorfismo e reuso de código.
+Este projeto foi desenvolvido como atividade de Programação Orientada a Objetos (POO) em Java. O objetivo é modelar instrumentos musicais como classes e objetos, praticando herança, polimorfismo e encapsulamento.
 
-A atividade proporcionou uma visão prática da POO, mostrando como estruturar um sistema de forma modular, clara e orientada a objetos, e como representar entidades do mundo real (instrumentos musicais) dentro de um programa.
+🎵 Funcionalidades principais:
+
+Classe base InstrumentoMusical com atributos e métodos comuns;
+
+Classes derivadas como Bateria, implementando comportamentos específicos (tocar, afinar, mostrasInformacoes);
+
+Instanciação de objetos que representam instrumentos reais, demonstrando interações e ações específicas;
+
+Prática de reuso de código e estrutura modular orientada a objetos.
+
+Este projeto ajuda a entender como conectar classes e objetos, aplicando conceitos teóricos de POO em um contexto prático e divertido.
